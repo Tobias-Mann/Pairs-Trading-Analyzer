@@ -11,6 +11,7 @@ Any Data used must be a csv (comma seperated not by semicolon), that contains a 
 ![](https://github.com/Tobias-Mann/Pairs-Trading-Analyzer/blob/master/Screenshots/Inputs.png?raw=true)
 
 <p> The csv files in Excel:</p>
+
 ![](https://github.com/Tobias-Mann/Pairs-Trading-Analyzer/blob/master/Screenshots/Data%20In%20Excel.png?raw=true)
 
 ## How to interpret the output
