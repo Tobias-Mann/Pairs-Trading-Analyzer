@@ -2,6 +2,14 @@
 <p style="text-align: center;">C# Console Application:
 Asks for two files containing historical financial data in the same format as files from Yahoo Finance. Performs the two-step Engel-Granger Test for Cointegration and simulates profits of applying the Pairs Trading Strategy to these stocks. To Project further Includes code to conduct statistical inference and a Function to perform the Augmented Dickey Fuller Test for stationarity of a timeseries, which is part of the Engel-Granger Test for cointegration.</p>
 
+## Motivation for Trading Pairs Strategy
+<p style="text-align: center;">Generally stock pairs that might be strongly affected by the same economic conditions tend to perform well under this strategy. However, in theory any valuation relevant similarity between stocks could be used to apply the strategy, like similar structure of the balance sheet. The idea is to identify short term deviations from a long term relative valuation and try to arbitrage these deviations, by shorting the overvalued stock and at the same time going long on the undervalued stock. A nice side effect of this strategy is that at any given time, the portfolio is Hedged against market shocks, as there is always an equally balanced exposure to a short position. However, the simulation ignores any costs that would theoretically apply, such as interest on the borrowed stock for the short position, transaction cost and comissions and in the case of large trades, liquidity constrained gains. Insted the simulation assumes,that always the colsing price of the  next day can be realized. However, using limit orders the so calculated returns could likely be outperformed!</p>
+
+## Ideas for pairs to analyze:
+- American Prison stocks: GEO & CXW
+- Swiss Pharmaceutical Giants: Hoffmann-La Roche & Novartis
+- German Car Manufacturers: Daimler & Porsche
+- Investment Banks: Citi & J.P. Morgan
 
 ## How to use it:
 <p style="text-align: center;">Clone the repository with Visual Studio to a local directory on your machine. Open the Program.cs file. Ensure in the Nuget Manager that the package Math.Numerics is available. Run/ Debug the application.
@@ -25,5 +33,3 @@ This indicates how profitable a pairs trading Strategy might be. The screenshot 
 ![](https://github.com/Tobias-Mann/Pairs-Trading-Analyzer/blob/master/Screenshots/Simulation%20of%20Trades.png?raw=true)
 
 <p style="text-align: center;">Later versions of this program might facilitate the analysis of multiple stocks, repeated trade simulations with different parameters and an inmproved treatment of the problem of heteroskedasticly distributed deviations by improving the estimator of the relative valuation. For instance, replacing the moving average model, with an SARIMA model of the relative valuation. A better fitting model, that that yields more "up todate" estimates of the average value should not suffer as strongly from trends in the relative valuation and possibly also reduce the effect ofskewed deviations in the relative valuation of the stocks.</p>
-
-## How to choose pairs for Testing
