@@ -11,9 +11,9 @@ Asks for two files containing historical financial data in the same format as fi
 - German Car Manufacturers: Daimler & Porsche
 - Investment Banks: Citi & J.P. Morgan
 
-## How to use it:
-<p style="text-align: center;">Clone the repository with Visual Studio to a local directory on your machine. Open the Program.cs file. Ensure in the Nuget Manager that the package Math.Numerics is available. Run/ Debug the application.
-When propted, copy paste paths referencing to the historical price data for the two stocks. According data can be downloaded from Yahoo finance.
+## How to use the Program
+<p style="text-align: center;">Clone the repository to a local directory on your machine. Open the Program.cs file with Visual Studio. Ensure in the Nuget Manager that the package Math.Numerics is available. Otherwise, install/restore, the Nuget and run/build or debug the application.
+When the console asks for the files, copy/paste the paths referencing to the historical price data. According data can be downloaded from Yahoo finance.
 Any Data used must be a csv (comma seperated not by semicolon), that contains a date parseble in the first column and the closing price in the fith colum.</p>
 
 ![](https://github.com/Tobias-Mann/Pairs-Trading-Analyzer/blob/master/Screenshots/Inputs.png?raw=true)
