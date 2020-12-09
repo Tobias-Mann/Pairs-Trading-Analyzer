@@ -7,12 +7,3 @@
 /Users/Tobias/OneDrive - Universitaet St.Gallen/MBF/Pairs Trading Analyzer/PTA/PairsTradingAnalyzer/obj/Debug/PairsTradingAnalyzer.csproj.CopyComplete
 /Users/Tobias/OneDrive - Universitaet St.Gallen/MBF/Pairs Trading Analyzer/PTA/PairsTradingAnalyzer/obj/Debug/PairsTradingAnalyzer.exe
 /Users/Tobias/OneDrive - Universitaet St.Gallen/MBF/Pairs Trading Analyzer/PTA/PairsTradingAnalyzer/obj/Debug/PairsTradingAnalyzer.pdb
-/Users/Tobias/OneDrive - Universitaet St.Gallen/MBF/Pairs Trading Analyzer/Pairs-Trading-Analyzer/bin/Debug/PairsTradingAnalyzer.exe
-/Users/Tobias/OneDrive - Universitaet St.Gallen/MBF/Pairs Trading Analyzer/Pairs-Trading-Analyzer/bin/Debug/PairsTradingAnalyzer.pdb
-/Users/Tobias/OneDrive - Universitaet St.Gallen/MBF/Pairs Trading Analyzer/Pairs-Trading-Analyzer/bin/Debug/MathNet.Numerics.dll
-/Users/Tobias/OneDrive - Universitaet St.Gallen/MBF/Pairs Trading Analyzer/Pairs-Trading-Analyzer/bin/Debug/MathNet.Numerics.xml
-/Users/Tobias/OneDrive - Universitaet St.Gallen/MBF/Pairs Trading Analyzer/Pairs-Trading-Analyzer/obj/Debug/PairsTradingAnalyzer.csprojAssemblyReference.cache
-/Users/Tobias/OneDrive - Universitaet St.Gallen/MBF/Pairs Trading Analyzer/Pairs-Trading-Analyzer/obj/Debug/PairsTradingAnalyzer.csproj.CoreCompileInputs.cache
-/Users/Tobias/OneDrive - Universitaet St.Gallen/MBF/Pairs Trading Analyzer/Pairs-Trading-Analyzer/obj/Debug/PairsTradingAnalyzer.csproj.CopyComplete
-/Users/Tobias/OneDrive - Universitaet St.Gallen/MBF/Pairs Trading Analyzer/Pairs-Trading-Analyzer/obj/Debug/PairsTradingAnalyzer.exe
-/Users/Tobias/OneDrive - Universitaet St.Gallen/MBF/Pairs Trading Analyzer/Pairs-Trading-Analyzer/obj/Debug/PairsTradingAnalyzer.pdb
