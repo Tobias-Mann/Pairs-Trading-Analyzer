@@ -8,9 +8,9 @@ Asks for two files containing historical financial data in the same format as fi
 When propted, copy paste paths referencing to the historical price data for the two stocks. According data can be downloaded from Yahoo finance.
 Any Data used must be a csv (comma seperated not by semicolon), that contains a date parseble in the first column and the closing price in the fith colum.</p>
 
-![text](https://github.com/Tobias-Mann/Pairs-Trading-Analyzer/blob/master/Screenshots/Inputs.png?raw=true)
+![](https://github.com/Tobias-Mann/Pairs-Trading-Analyzer/blob/master/Screenshots/Inputs.png?raw=true)
 
-<p> The csv files in Excel</p>
+<p> The csv files in Excel:</p>
 ![](https://github.com/Tobias-Mann/Pairs-Trading-Analyzer/blob/master/Screenshots/Data%20In%20Excel.png?raw=true)
 
 ## How to interpret the output
