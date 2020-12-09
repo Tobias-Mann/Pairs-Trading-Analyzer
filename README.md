@@ -1,0 +1,2 @@
+# Pairs-Trading-Analyzer
+C# Console Application: Asks for two files containing historical financial data in the same format as files from Yahoo Finance. Performs the two-step Engel-Granger Test for Cointegration and simulates profits of applying the Pairs Trading Strategy to these stocks. To Project further Includes code to conduct statistical inference and a Function to perform the Augmented Dickey Fuller Test for stationarity of a timeseries, which is part of the Engel-Granger Test for cointegration.
