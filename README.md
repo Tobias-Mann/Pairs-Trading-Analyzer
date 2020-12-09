@@ -7,7 +7,7 @@ Asks for two files containing historical financial data in the same format as fi
 Clone the repository with Visual Studio to a local directory on your machine. Open the Program.cs file. Ensure in the Nuget Manager that the package Math.Numerics is available. Run/ Debug the application.
 When propted, copy paste paths referencing to the historical price data for the two stocks. According data can be downloaded from Yahoo finance.
 Any Data used must be a csv (comma seperated not by semicolon), that contains a date parseble in the first column and the closing price in the fith colum.
-
+![](https://github.com/Tobias-Mann/Pairs-Trading-Analyzer/blob/master/Screenshots/Inputs.png?raw=true)
 
 ## How to interpret the output
 First, the program analyzes the two stocks for possible cointegration using the two step Engel-Granger approach (described further below).
