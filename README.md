@@ -32,4 +32,5 @@ This indicates how profitable a pairs trading Strategy might be. The screenshot 
 
 ![](https://github.com/Tobias-Mann/Pairs-Trading-Analyzer/blob/master/Screenshots/Simulation%20of%20Trades.png?raw=true)
 
+## Outlook
 <p style="text-align: center;">Later versions of this program might facilitate the analysis of multiple stocks, repeated trade simulations with different parameters and an inmproved treatment of the problem of heteroskedasticly distributed deviations by improving the estimator of the relative valuation. For instance, replacing the moving average model, with an SARIMA model of the relative valuation. A better fitting model, that that yields more "up todate" estimates of the average value should not suffer as strongly from trends in the relative valuation and possibly also reduce the effect ofskewed deviations in the relative valuation of the stocks.</p>
