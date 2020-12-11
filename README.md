@@ -24,7 +24,7 @@ Any Data used must be a csv (comma seperated not by semicolon), that contains a 
 
 ## How to interpret the output
 <p style="text-align: center;">First, the program analyzes the two stocks for possible cointegration using the two step Engel-Granger approach (described further below).
-This indicates how profitable a pairs trading Strategy might be. The screenshot below shows what an example output of the analysis for the stock pair Novartis and Roche</p>
+This indicates how profitable a pairs trading Strategy might be. The screenshot below shows what an example output of the analysis for the stock pair Novartis and Roche. The output now might vary a little as the digit numbers have been restricted to 4 digits after the comma and dates are now shown without clock time.</p>
 
 ![](https://github.com/Tobias-Mann/Pairs-Trading-Analyzer/blob/master/Screenshots/Cointegration%20Analysis.png?raw=true)
 
