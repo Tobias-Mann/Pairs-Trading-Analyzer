@@ -35,7 +35,7 @@ This indicates how profitable a pairs trading Strategy might be. The screenshot 
 ## Outlook
 <p style="text-align: center;">Later versions of this program might facilitate the analysis of multiple stocks, repeated trade simulations with different parameters and an inmproved treatment of the problem of heteroskedasticly distributed deviations by improving the estimator of the relative valuation. For instance, replacing the moving average model, with an SARIMA model of the relative valuation. For instance, the auto regressive character of such a model, might control for autocorrelation in the deviations and thus improve results. A better fitting model, that that yields more "up todate" estimates of the average value should not suffer as strongly from trends in the relative valuation. Also introducing a distinct upward standard error and a distinct downward standard error for calculating the z variable might reduce the effect of skewed deviations in the relative valuation of the stocks.</p>
 
-## Validity of the functions
+## Validity
 While no guarantee for any prediction made by the program is given, it should be noted that some unit tests were inplemented and can be activated by setting the variable "perforUnitTests" to true. In particular the tests of the Augmented Dickey-Fuller and of the Standard Errors for the regression estimators might be of interest, since they are enherently relevant for testing cointegration. A possible extension to this would be to implement a test of the Engel-Granger functions, however, due to time limitations this has not yet been implemented.
 
 
